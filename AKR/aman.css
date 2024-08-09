@@ -1,0 +1,23 @@
+*{
+    background-color: bisque;
+}
+
+.ak1{
+    background-color: aqua;
+    height: 400px;
+    width: 300px;
+    background-image: url("Mahadev.jpeg");
+    background-size: cover;
+    border-radius: 30px;
+    border: solid 5px mediumslateblue;
+}
+.ak2{
+height: 300px;
+width: 200px;
+background-image: url("shiv.jpeg");
+background-size: cover;
+border-radius: 30px;
+border: solid 6px royalblue;
+border-radius: 50%;
+
+}
